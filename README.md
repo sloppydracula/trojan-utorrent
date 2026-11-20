@@ -1,5 +1,19 @@
-# Malware Analysis Report: uTorrent Pro Patch (HackTool / Trojan)   3ec610acd74ffc30e54aee5970132482b0975172016010cb596aaceed2167750 - uTorrent Pro 3.6.0 Build 47224 Incl Patch - KhanPC.zip
-  0fef3ad596aea60227f82be01af84a4cfc0c206adc3f4a80c3a825a165fa8269  - Patch_UT.47224.exe
+# Malware Analysis Report: uTorrent Pro Patch (HackTool / Trojan)   
+#discovery
+#execution
+#spyware
+#trojan
+#upx
+#adware
+#defense_evasion
+#persistence
+#stealer
+#malware
+
+3ec610acd74ffc30e54aee5970132482b0975172016010cb596aaceed2167750 - uTorrent Pro 3.6.0 Build 47224 Incl Patch - KhanPC.zip
+
+
+0fef3ad596aea60227f82be01af84a4cfc0c206adc3f4a80c3a825a165fa8269  - Patch_UT.47224.exe
                                 https://www.techspot.com/
         
 
